@@ -1,0 +1,40 @@
+body {
+    background: #b5f3e7;
+    margin: 0;
+    padding: 0;
+  }
+  h1 {
+        color: forestgreen;
+        font-size: 100px;
+        width: 100%;
+        font-family: Georgia;
+        text-align: center;
+  }
+  h2 {
+    color: darkgreen;
+    font-size: 40px;
+    width: 40%;
+    font-family: Georgia;
+    text-align: left;
+}
+h3 {
+    color: rgb(4, 61, 4);
+    font-size: 40px;
+    width: 40%;
+    font-family: Georgia;
+    text-align: left;
+}
+p {
+    font-size: 20px;
+    font-family: Georgia;
+    text-align: left;
+}
+.image indoorPlants {
+    background-image: url('https://i.pinimg.com/originals/46/13/2e/46132e68e3ddada039c84179ecbebd7d.jpg');
+    background-size: cover;
+    background-position: left;
+    height: 100px;
+  }
+
+  
+ 
